@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Earlyproto</string>
+    <string name="banner">OPTIO Prototipo</string>
+    <string name="welcome">Bienvenido:</string>
+    <string name="placeholder">Usuario</string>
+
+    //Menu
+    <string name="button1">Empezar</string>
+    <string name="regresar">Volver</string>
+
+    //Login
+    <string name="titlog">Ingrese su Usuario</string>
+    <string name="namelog">Correo</string>
+    <string name="passlog">Contraseña</string>
+    <string name="buttlog">Ingresar</string>
+
+    //Choose
+    <string name="op0">Seleccione su opcion</string>
+    <string name="op1">OPTIOBOSS</string>
+    <string name="op2">OPTIOWORKER</string>
+    <string name="butt2">Salir</string>
+
+    //OptioWorker
+    <string name="work_butt1">Buscar Avisos</string>
+    <string name="work_butt2">Mis Trabajos</string>
+    <string name="work_butt3">Opciones</string>
+
+    //OptioBoss
+    <string name="boss_butt1">Publicar Aviso</string>
+    <string name="boss_butt2">Mis Avisos</string>
+    <string name="boss_butt3">Opciones</string>
+
+</resources>
